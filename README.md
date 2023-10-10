@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matías</h1>
-<h3 align="center">a multiplatform development student</h3>
+<h3 align="center">a Multiplatform Development Student</h3>
 
 - 👯 I’m looking to collaborate **with foreign companies for my end-of-degree internship**
 
