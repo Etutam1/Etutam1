@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Matías</h1>
+<h1 align="center">Hello there 🫡, I'm Matías</h1>
 <h3 align="center">a Multiplatform Development Student</h3>
 
-- 👯 I’m looking to collaborate **with foreign companies for my end-of-degree internship**
+- 💼 I’m looking to collaborate **with foreign companies for my end-of-degree internship**
 
-- 📫 How to reach me **lucasmpg@proton.me**
+- 📨 How to reach me **lucasmpg@proton.me**
 
-- 📄 Know about my experiences [I worked as Head Bartender in multiple cocktail bars for the last 7 years](I worked as Head Bartender in multiple cocktail bars for the last 7 years)
+- 📲 You can also contact me at +34 603 54 15 16
+
+- 📄 I worked as Head Bartender in multiple cocktail bars for the last 7 years but I finally decided to give a chance to programming and I found out that This is the Way!
 
 - 🗣️ Languages **🇪🇸 🇬🇧 🇩🇪 🇫🇷**
 
