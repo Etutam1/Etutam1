@@ -1,7 +1,7 @@
 <h1 align="center">Hello there!🫡, I'm Matías</h1>
 <h3 align="center">a Multiplatform development student</h3> 
 
-- 🎓 I’m currently learning **Solidity Blockchain Development** <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+- 🎓 I’m currently learning **Solidity Blockchain Development** <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"/> 
 
 - 💼 I’m looking to collaborate with a foreign company for my end-of-degree internship
 
