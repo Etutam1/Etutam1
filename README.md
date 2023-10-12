@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lucasmpg@proton.me**
 
-- 📄 Know about my experiences [I worked as Head Bartender in multiple cocktail bars for the last 7 years](I worked as Head Bartender in multiple cocktail bars for the last 7 years)
+- 📄 Know about my experiences I worked as Head Bartender in multiple cocktail bars for the last 7 years
 
 - 🗣️ Languages **🇪🇸 🇬🇧 🇩🇪 🇫🇷**
 
