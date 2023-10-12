@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently learning **Solidity Blockchain Development**
 
-- 👯 I’m looking to collaborate **with foreign companies for my end-of-degree internship**
+- 💼 I’m looking to collaborate **with foreign companies for my end-of-degree internship**
 
 - 📨 Reach me at **lucasmpg@proton.me**
 
