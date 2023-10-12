@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate **with foreign companies for my end-of-degree internship**
 
-- 📫 How to reach me **lucasmpg@proton.me**
+- 📨 Reach me at **lucasmpg@proton.me**
 
-- 📲 You ca also contact me at **+34 603 54 15 16**
+- 📲 You can also contact me at **+34 603 54 15 16**
 
 - 📄 I worked as Head Bartender in multiple cocktail bars for the last 7 years but I finally decided to give a chance to programming so I found out that This is the Way!
 
