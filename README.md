@@ -3,15 +3,15 @@
 
 - 🎓 I’m currently learning **Solidity Blockchain Development**
 
-- 💼 I’m looking to collaborate **with foreign companies for my end-of-degree internship**
+- 💼 I’m looking to collaborate with foreign companies for my end-of-degree internship
 
 - 📨 Reach me at **lucasmpg@proton.me**
 
 - 📲 You can also contact me at **+34 603 54 15 16**
 
-- 📄 I worked as Head Bartender in multiple cocktail bars for the last 7 years but I finally decided to give a chance to programming so I found out that This is the Way!
+- 📄 I worked as **Head Bartender** in multiple cocktail bars for the last **7 years** but I finally decided to give a chance to programming so I found out that **This is the Way!**
 
-- 🗣️ Languages **🇪🇸 🇬🇧 🇩🇪 🇫🇷**
+- 🗣️ Languages 🇪🇸 🇬🇧 🇩🇪 🇫🇷
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
