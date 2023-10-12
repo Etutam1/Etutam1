@@ -7,9 +7,12 @@
 
 - 💼 I’m looking to collaborate with a foreign company for my end-of-degree internship
 
-- 📨 Reach me at <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank" rel="noreferrer">**lucasmpg@proton.me**</a>
+- 📨 Reach me at <a href="mailto:lucasmpg@proton.me">lucasmpg@proton.me</a>
 
-- 📲 You can also contact me at **+34 603 54 15 16**
+- 📲 You can also contact me at <a href="https://api.whatsapp.com/send?phone=+34603541516">+34 603 54 15 16</a>
+
+
+
 
 - 📄 I worked as **Head Bartender** in multiple cocktail bars for the last **7 years** but I finally decided to give a chance to programming so I found out that **This is the Way!**
 
