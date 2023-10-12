@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matías</h1>
-<h3 align="center">a multiplatform development student</h3>
+<h1 align="center">Hello there!🫡, I'm Matías</h1>
+<h3 align="center">a Multiplatform development student</h3>
 
 - 🎓 I’m currently learning **Solidity Blockchain Development**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lucasmpg@proton.me**
 
-- 📄 Know about my experiences I worked as Head Bartender in multiple cocktail bars for the last 7 years
+- 📄 Know about my experiences I worked as Head Bartender in multiple cocktail bars for the last 7 years but I finally decided to give a chance to programming and I foundou that This is the Way!
 
 - 🗣️ Languages **🇪🇸 🇬🇧 🇩🇪 🇫🇷**
 
