@@ -9,7 +9,7 @@
 
 - 📲 You ca also contact me at **+34 603 54 15 16**
 
-- 📄 Know about my experiences I worked as Head Bartender in multiple cocktail bars for the last 7 years but I finally decided to give a chance to programming and I foundou that This is the Way!
+- 📄 I worked as Head Bartender in multiple cocktail bars for the last 7 years but I finally decided to give a chance to programming so I found out that This is the Way!
 
 - 🗣️ Languages **🇪🇸 🇬🇧 🇩🇪 🇫🇷**
 
