@@ -1,12 +1,13 @@
 <h1 align="center">Hello there!🫡, I'm Matías</h1>
 <h3 align="center">a Multiplatform development student</h3> 
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> </a>
 
-- 🎓 I’m currently learning **Solidity Blockchain Development** 
+
+
+- 🎓 I’m currently learning <a href="https://soliditylang.org" target="_blank" rel="noreferrer">**Solidity Blockchain Development**</a>
 
 - 💼 I’m looking to collaborate with a foreign company for my end-of-degree internship
 
-- 📨 Reach me at **lucasmpg@proton.me**
+- 📨 Reach me at <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank" rel="noreferrer">**lucasmpg@proton.me**</a>
 
 - 📲 You can also contact me at **+34 603 54 15 16**
 
