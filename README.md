@@ -9,7 +9,7 @@
 
 - 📨 Reach me at <a href="mailto:lucasmpg@proton.me">lucasmpg@proton.me</a>
 
-- 📲 You can also contact me at <a href="tel:+34603541516">+34 603 54 15 16</a>
+- 📲 You can also contact me at <a href="tel:+603541516">+34 603 54 15 16</a>
 
 - 📄 I worked as **Head Bartender** in multiple cocktail bars for the last **7 years** but I finally decided to give a chance to programming so I found out that **This is the Way!**
 
