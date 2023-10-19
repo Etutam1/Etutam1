@@ -5,7 +5,7 @@
 
 - 🎓 I’m currently learning <a href="https://soliditylang.org" target="_blank" rel="noreferrer">**Solidity Blockchain Development**</a>
 
-- 💼 I’m looking to collaborate with a foreign company for my end-of-degree internship
+- 💼 I’m looking forward collaborate with a foreign company for my end-of-degree internship
 
 - 📨 Reach me at <a href="mailto:lucasmpg@proton.me">lucasmpg@proton.me</a>
 
