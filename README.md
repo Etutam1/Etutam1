@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!🫡, I'm Matías</h1>
-<h3 align="center">a Multiplatform development student</h3> 
+<h3 align="center">a Multiplatform software development student</h3> 
 
 
 
