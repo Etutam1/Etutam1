@@ -3,7 +3,7 @@
 
 
 
-- 🎓 I’m currently learning <a href="https://soliditylang.org" target="_blank" rel="noreferrer">**Solidity Blockchain Development** on my own</a>
+- 🎓 I’m currently learning <a href="https://soliditylang.org" target="_blank" rel="noreferrer">**Solidity Blockchain Development**</a> on my own
 
 - 💼 I am currently working in a company real project learning/mastering JavaScript, TypeScript, SQL, Angular framework and Node.js. But always open to offers and opportunities to contribute my growth as developer.
 
