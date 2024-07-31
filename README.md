@@ -22,7 +22,9 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://angular.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
