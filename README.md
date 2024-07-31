@@ -4,7 +4,7 @@
 
 - 🎓 I’m currently learning <a href="https://soliditylang.org" target="_blank" rel="noreferrer">**Solidity Blockchain Development**</a> on my own
 
-- 💼 After getting an Certificate of Higher Education (HNC) in Multiplatform Software Development, it was offered to me an intership in an IT consulting firm where I am currently working in a real project learning/mastering JavaScript, TypeScript, SQL, Angular framework and Node.js. But always open to offers and opportunities to contribute my growth as developer.
+- 💼 After getting a Certificate of Higher Education (HNC) in Multiplatform Software Development, it was offered to me an intership in an IT consulting firm where I am currently working in a real project learning/mastering JavaScript, TypeScript, SQL, Angular framework and Node.js. But always open to offers and opportunities to contribute my growth as developer.
 
 - 📄 I worked as **Head Bartender** in multiple cocktail bars for the last **7 years** but I finally decided to give a chance to programming so I found out that **This is the Way!**
 
