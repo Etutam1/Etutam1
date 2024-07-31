@@ -2,18 +2,17 @@
 <h3 align="center">a Trainee Junior Backend Developer</h3> 
 
 
-
 - 🎓 I’m currently learning <a href="https://soliditylang.org" target="_blank" rel="noreferrer">**Solidity Blockchain Development**</a> on my own
 
 - 💼 After getting an Certificate of Higher Education (HNC) in Multiplatform Software Development, it was offered to me an intership in an IT consulting firm where I am currently working in a real project learning/mastering JavaScript, TypeScript, SQL, Angular framework and Node.js. But always open to offers and opportunities to contribute my growth as developer.
 
-- 📨 Reach me at <a href="mailto:lucasmpg@proton.me">lucasmpg@proton.me</a>
-
-- 📲 You can also contact me at <a href="tel:+603541516">+34 603 54 15 16</a>
-
 - 📄 I worked as **Head Bartender** in multiple cocktail bars for the last **7 years** but I finally decided to give a chance to programming so I found out that **This is the Way!**
 
 - 🗣️ Languages 🇪🇸 🇬🇧 🇩🇪 🇫🇷
+  
+- 📨 Reach me at <a href="mailto:lucasmpg@proton.me">lucasmpg@proton.me</a>
+
+- 📲 You can also contact me at <a href="tel:+603541516">+34 603 54 15 16</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
