@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-<a href="https://netbeans.apache.org/_/images/apache-netbeans.svg" target="_blank" rel="noreferrer"> 
+<a href="https://netbeans.apache.org" target="_blank" rel="noreferrer"> 
 <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" alt="netbeans" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/es-es/pycharm/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
