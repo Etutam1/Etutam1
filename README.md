@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!🫡, I'm Matías</h1>
-<h3 align="center">a Trainee Junior Backend Developer</h3> 
+<h3 align="center">a Software Developer</h3> 
 
 
 - 🎓 I’m currently learning <a href="https://soliditylang.org" target="_blank" rel="noreferrer">**Solidity Blockchain Development**</a> on my own
